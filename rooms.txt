@@ -1,0 +1,24 @@
+3
+Room of Beginnings
+You find yourself in a dimly lit chamber. Moss lines the walls.
+1
+Sword
+1
+Goblin
+0 1 -1 -1
+
+Hall of Echoes
+A long hall that echoes with distant dripping water.
+0
+0
+-1 -1 2 0
+
+Treasure Chamber
+A small room glittering with gold and jewels.
+2
+Gold Coin
+Health Potion
+1
+Dragon
+-1 -1 -1 1
+

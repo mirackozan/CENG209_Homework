@@ -1,0 +1,7 @@
+3
+Sword
+A sturdy blade.
+Gold Coin
+A shiny gold coin.
+Health Potion
+A small vial of healing liquid.

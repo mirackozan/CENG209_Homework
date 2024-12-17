@@ -1,0 +1,3 @@
+2
+Goblin 10 2
+Dragon 50 10
